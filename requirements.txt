@@ -1,0 +1,7 @@
+nltk==3.8.1
+numpy==1.26.4
+pandas==2.2.2
+pytorch_lightning==2.2.5
+scikit_learn==1.4.2
+torch==2.2.0+cu118
+torchtext==0.16.2+cpu
